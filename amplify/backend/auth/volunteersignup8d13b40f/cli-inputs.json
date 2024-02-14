@@ -36,7 +36,7 @@
     "sharedId": "8d13b40f",
     "resourceName": "volunteersignup8d13b40f",
     "authSelections": "identityPoolAndUserPool",
-    "useDefault": "defaultSocial",
+    "useDefault": "default",
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "usernameCaseSensitive": false,
@@ -55,11 +55,7 @@
     },
     "breakCircularDependency": true,
     "dependsOn": [],
-    "hostedUI": true,
-    "hostedUIDomainName": "volunteersignupab4a7f27-ab4a7f27",
-    "authProvidersUserPool": [],
-    "hostedUIProviderMeta": "[]",
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/\"],\"LogoutURLs\":[\"http://localhost:3000/\"]}",
+    "hostedUI": false,
     "authProviders": []
   }
 }
