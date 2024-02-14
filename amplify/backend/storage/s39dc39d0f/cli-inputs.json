@@ -1,0 +1,14 @@
+{
+  "resourceName": "s39dc39d0f",
+  "policyUUID": "9dc39d0f",
+  "bucketName": "volunteersignup4a866ba665444e18bed19983888f5796",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
